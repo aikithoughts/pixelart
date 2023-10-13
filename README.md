@@ -1,7 +1,7 @@
 # pixelart generator
 
-Original tutorial: 
-Original source:
+Original tutorial: https://youtu.be/DfDPJqD3FjI
+Original source: https://github.com/AsmrProg-YT/100-days-of-javascript/tree/master/Day%20%2301%20-%20Pixel%20Art%20Generator
 
 In this tutorial, I followed along while the developer created a nice little pixelart generator. As a novice developer, here are some of my observations:
 
